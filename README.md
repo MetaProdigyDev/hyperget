@@ -27,7 +27,8 @@ Instructions for running Hyperget locally.
 Make sure you have the following installed:
 - [Bash](https://www.gnu.org/software/bash/)
 - [Git](https://git-scm.com/)
-- [Flatpak](https://flatpak.org/), [Snap](https://snapcraft.io/)
+- [Flatpak](https://flatpak.org/), [Snap](https://snapcraft.io/) (optional)
+- [Figlet](http://www.figlet.org/)
 
 <h3>Cloning</h3>
 
