@@ -1,26 +1,11 @@
-HHHHHHHHH     HHHHHHHHH                                                                                                                                    tttt          
-H:::::::H     H:::::::H                                                                                                                                 ttt:::t          
-H:::::::H     H:::::::H                                                                                                                                 t:::::t          
-HH::::::H     H::::::HH                                                                                                                                 t:::::t          
-  H:::::H     H:::::Hyyyyyyy           yyyyyyyppppp   ppppppppp       eeeeeeeeeeee    rrrrr   rrrrrrrrr      ggggggggg   ggggg    eeeeeeeeeeee    ttttttt:::::ttttttt    
-  H:::::H     H:::::H y:::::y         y:::::y p::::ppp:::::::::p    ee::::::::::::ee  r::::rrr:::::::::r    g:::::::::ggg::::g  ee::::::::::::ee  t:::::::::::::::::t    
-  H::::::HHHHH::::::H  y:::::y       y:::::y  p:::::::::::::::::p  e::::::eeeee:::::eer:::::::::::::::::r  g:::::::::::::::::g e::::::eeeee:::::eet:::::::::::::::::t    
-  H:::::::::::::::::H   y:::::y     y:::::y   pp::::::ppppp::::::pe::::::e     e:::::err::::::rrrrr::::::rg::::::ggggg::::::gge::::::e     e:::::etttttt:::::::tttttt    
-  H:::::::::::::::::H    y:::::y   y:::::y     p:::::p     p:::::pe:::::::eeeee::::::e r:::::r     r:::::rg:::::g     g:::::g e:::::::eeeee::::::e      t:::::t          
-  H::::::HHHHH::::::H     y:::::y y:::::y      p:::::p     p:::::pe:::::::::::::::::e  r:::::r     rrrrrrrg:::::g     g:::::g e:::::::::::::::::e       t:::::t          
-  H:::::H     H:::::H      y:::::y:::::y       p:::::p     p:::::pe::::::eeeeeeeeeee   r:::::r            g:::::g     g:::::g e::::::eeeeeeeeeee        t:::::t          
-  H:::::H     H:::::H       y:::::::::y        p:::::p    p::::::pe:::::::e            r:::::r            g::::::g    g:::::g e:::::::e                 t:::::t    tttttt
-HH::::::H     H::::::HH      y:::::::y         p:::::ppppp:::::::pe::::::::e           r:::::r            g:::::::ggggg:::::g e::::::::e                t::::::tttt:::::t
-H:::::::H     H:::::::H       y:::::y          p::::::::::::::::p  e::::::::eeeeeeee   r:::::r             g::::::::::::::::g  e::::::::eeeeeeee        tt::::::::::::::t
-H:::::::H     H:::::::H      y:::::y           p::::::::::::::pp    ee:::::::::::::e   r:::::r              gg::::::::::::::g   ee:::::::::::::e          tt:::::::::::tt
-HHHHHHHHH     HHHHHHHHH     y:::::y            p::::::pppppppp        eeeeeeeeeeeeee   rrrrrrr                gggggggg::::::g     eeeeeeeeeeeeee            ttttttttttt  
-                           y:::::y             p:::::p                                                                g:::::g                                            
-                          y:::::y              p:::::p                                                    gggggg      g:::::g                                            
-                         y:::::y              p:::::::p                                                   g:::::gg   gg:::::g                                            
-                        y:::::y               p:::::::p                                                    g::::::ggg:::::::g                                            
-                       yyyyyyy                p:::::::p                                                     gg:::::::::::::g                                             
-                                              ppppppppp                                                       ggg::::::ggg                                               
-                                                                                                                 gggggg  
+
+.__                                              __   
+|  |__ ___.__.______   ___________  ____   _____/  |_ 
+|  |  <   |  |\____ \_/ __ \_  __ \/ ___\_/ __ \   __\
+|   Y  \___  ||  |_> >  ___/|  | \/ /_/  >  ___/|  |  
+|___|  / ____||   __/ \___  >__|  \___  / \___  >__|  
+     \/\/     |__|        \/     /_____/      \/      
+
 
 
 <h1 align="center" style="font-weight: bold;">Hyperget by MetaProdigyDev ⚡</h1>
