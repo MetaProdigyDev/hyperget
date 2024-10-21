@@ -33,7 +33,7 @@ Make sure you have the following installed:
 <h3>Cloning</h3>
 
 To clone the project, run the following command:
-git clone https://github.com/MetaProdigyDev/hyperget.git
+```git clone https://github.com/MetaProdigyDev/hyperget.git```
 <h3>Starting</h3>
 Navigate to the project folder and run:
 
