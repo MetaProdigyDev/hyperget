@@ -43,14 +43,29 @@ Copy code
 cd hyperget
 ./hyperget search <package-name>
 <h2 id="collaborators">🤝 Collaborators</h2> <p>Special thanks to all the contributors who made this project possible.</p> <table> <tr> <td align="center"> <a href="https://github.com/Fernanda-Kipper"> <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br> <sub><b>Fernanda Kipper</b></sub> </a> </td> <td align="center"> <a href="https://github.com/ShaanCoding"> <img src="https://avatars.githubusercontent.com/u/22236218?v=4" width="100px;" alt="Shaan Khan Profile Picture"/><br> <sub><b>Shaan Khan</b></sub> </a> </td> </tr> </table> <h2 id="contribute">📫 Contribute</h2>
-You can contribute to this project by following these steps:
+<h2 id="contribute">📫 Contribute to Hyperget</h2>
 
-Fork the repository: git clone https://github.com/MetaProdigyDev/hyperget.git
-Create your feature branch: git checkout -b feature/your-feature-name
-Make your changes and commit them: git commit -m 'Add your message here'
-Push to the branch: git push origin feature/your-feature-name
-Open a Pull Request explaining your changes
-<h3>Documentations that might help</h3>
-📝 How to create a Pull Request
+We welcome contributions from everyone! Here’s how you can get involved:
 
-💾 Commit pattern
+1. **Clone the repository**:  
+   `git clone https://github.com/MetaProdigyDev/hyperget.git`
+
+2. **Create your branch**:  
+   Start by creating a new branch for your feature or fix. Use a descriptive name that follows the naming pattern:  
+   `git checkout -b feature/NAME`  
+   Example: `feature/add-package-search`
+
+3. **Follow the commit patterns**:  
+   To keep our commit history clean and understandable, please follow the standard commit message guidelines mentioned in our [Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716).
+
+4. **Submit a Pull Request**:  
+   Once you've completed your changes:
+   - Push your branch to the repository.
+   - Open a Pull Request (PR) on GitHub, providing a clear and concise explanation of the problem you’ve solved or the feature you’ve added.
+   - If applicable, attach screenshots of any visual changes made.
+   - Wait for a review from one of the maintainers.
+
+<h3>Helpful Documentation</h3>
+
+- [📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
+- [💾 Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
