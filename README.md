@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center" style="font-weight: bold;">Hyperget by MetaProdigyDev ⚡</h1>
+<h1 align="center" style="font-weight: bold;">Make Your Packages Fly with Hyperget ⚡</h1>
 
 <p align="center">
 <a href="#getting-started">Getting Started</a> |
